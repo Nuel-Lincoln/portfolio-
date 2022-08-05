@@ -20,7 +20,7 @@ body{
      top:0;
      display: flex; 
      width:100%;
-     padding: 2%;
+     padding: 0%;
      justify-content: space-between;
      background-color: rgb(68, 38, 38);
      color:gainsboro;
@@ -31,7 +31,7 @@ body{
                width: 30%;
                font-weight: 900;
                font-family: Baskerville, Georgia;
-               transform: translate(10%, 80%);
+               transform: translate(10%, 50%);
           }
           .link{
                display: flex;
@@ -251,6 +251,6 @@ body{
      .Contact a{
           text-decoration: none;
           width: 15%;
-          margin-top:-5%;
+          margin-top:-2%;
      }
   }

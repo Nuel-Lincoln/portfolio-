@@ -180,7 +180,7 @@ body{
      margin-top: 0%;
      margin-bottom:5%;
 }
-@media screen and (max-width: 1000px){
+@media screen and (max-width: 999px){
      .Container{
             gap:20px;
             font-family: Baskerville, Georgia, Roboto;
